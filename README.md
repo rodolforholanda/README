@@ -8,4 +8,4 @@
 
 Meus Contatos: 
 - 💼 Linkedin: https://www.linkedin.com/in/rodolfo-rodrigues-37073257/
-- 📩 Gmail: rodolfoholanda7@gmail
+- 📩 Gmail: rodolfoholanda7@gmail.com
