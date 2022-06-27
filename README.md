@@ -1,7 +1,9 @@
 # Olá, Eu sou o Rodolfo Holanda
-
-💻 Data Science Jr;
-- Estudando Python[Bibliotecas] :  Pandas, numpy, matplotlib, seaboarn, scikitlearn, sklearn, Keras, StatsModel
+### Sobre mim:
+- Estou sempre em busca de novos conhecimentos;
+- Tenho realizados pesquias na área de ciência de dados; 💻 Data Science Jr
+- Sou praticante de esportes e gosto de ter uma vida saudável;
+- Estudando Python [Bibliotecas] :  Pandas, numpy, matplotlib, seaboarn, scikitlearn, sklearn, Keras, StatsModel
 - Estudando SQL;
 - Estudando Cloud ☁️; Azure, AWS, Google Cloud
 
@@ -12,6 +14,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rodolfoholanda7@gmail.com/)
 
 ### Linguagens e Ferramentas:  
+ 
 ![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ![Anaconda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
@@ -23,5 +26,9 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+
+![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
+
+	
 
 
