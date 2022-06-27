@@ -1,8 +1,8 @@
 # Olá, Eu sou o Rodolfo Holanda
 ### Sobre mim:
-- Explorando novas tecnologias;
+- Explorando novas tecnologias 📶;
 - Aprendendo sobre ciência de dados 💻;
-- Sou praticante de esportes e gosto de ter uma vida saudável;
+- Sou praticante de esportes e gosto de ter uma vida saudável 🏃‍♂️ ⚽ 🏋️‍♂️;
 - Estudando Python [Bibliotecas] :  Pandas, numpy, matplotlib, seaboarn, scikitlearn, sklearn, Keras, StatsModel
 - Estudando SQL;
 - Estudando Cloud ☁️; Azure, AWS, Google Cloud
