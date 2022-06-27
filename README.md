@@ -1,7 +1,7 @@
 # Olá, Eu sou o Rodolfo Holanda
 ### Sobre mim:
-- Estou sempre em busca de novos conhecimentos;
-- Tenho realizados pesquias na área de ciência de dados; 💻 Data Science Jr
+- Explorando novas tecnologias;
+- Aprendendo sobre ciência de dados 💻;
 - Sou praticante de esportes e gosto de ter uma vida saudável;
 - Estudando Python [Bibliotecas] :  Pandas, numpy, matplotlib, seaboarn, scikitlearn, sklearn, Keras, StatsModel
 - Estudando SQL;
